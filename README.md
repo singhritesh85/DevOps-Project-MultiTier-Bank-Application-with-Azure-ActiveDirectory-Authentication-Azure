@@ -4,6 +4,17 @@ Architecture diagram for the project is as shown in the screenshot attached belo
 
 ![image](https://github.com/user-attachments/assets/c0eb22ae-e4d0-4eaf-9322-c7ecaafed1ab)
 
+In this project for Authentication of Azure DevOps Pipeline, SonarQube and Azure Artifact Feed I have used Azure Active Directory (Azure AD) as shown in the screenshots attached nelow.
+
+Connect your Azure DevOps Organisation with Azure Entra as shown in the screenshot acched below.
+
+![image](https://github.com/user-attachments/assets/4321872c-3866-49e3-b390-fca95b0f9dc8)
+
+
+
+![image](https://github.com/user-attachments/assets/69a3bf45-2488-4b36-b21e-2c16c890c407)
+
+
 
 
 
