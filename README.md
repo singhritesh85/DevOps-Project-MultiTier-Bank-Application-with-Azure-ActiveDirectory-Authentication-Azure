@@ -19,7 +19,7 @@ Install the plugin for Azure Active Directory in SonarQube as shown in the scree
 
 Create App Regestration as shown in the screenshot attached below.
 
-![image](https://github.com/user-attachments/assets/d01f3852-87d3-4216-bcce-2a3e78c6b0d4)
+![image](https://github.com/user-attachments/assets/b19e8b8b-16af-4eb3-b5e7-2c2774c48425)
 ![image](https://github.com/user-attachments/assets/bab86daa-f59b-47ef-ae28-f9d0b0d7c78e)
 ![image](https://github.com/user-attachments/assets/5004d489-ddc1-4eb4-92aa-e3377d805184)
 
